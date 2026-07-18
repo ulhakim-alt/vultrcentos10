@@ -1,0 +1,340 @@
+{
+  "locations": [
+    {
+      "id": "arr_malam",
+      "group": "Arrival / Departure",
+      "name": "Airport (Night Arrival)",
+      "detail": "Airport Flight Malam"
+    },
+    {
+      "id": "arr_tokyo",
+      "group": "Arrival / Departure",
+      "name": "Airport Tokyo + Odaiba",
+      "detail": "Airport Flight Pagi \u00b7 Odaiba"
+    },
+    {
+      "id": "arr_osaka",
+      "group": "Arrival / Departure",
+      "name": "Airport Osaka + City",
+      "detail": "Airport Flight Pagi \u00b7 Osaka Castle \u00b7 Umeda Sky Building"
+    },
+    {
+      "id": "tokyo_airport",
+      "group": "Arrival / Departure",
+      "name": "Tokyo + Departure",
+      "detail": "Odaiba \u2192 Airport (Night)"
+    },
+    {
+      "id": "osaka_airport",
+      "group": "Arrival / Departure",
+      "name": "Osaka + Departure",
+      "detail": "Osaka Castle \u00b7 Umeda Sky Building \u2192 Airport (Night)"
+    },
+    {
+      "id": "arr_pagi",
+      "group": "Arrival / Departure",
+      "name": "Airport (Morning Departure)",
+      "detail": "Airport Balik Pagi"
+    },
+    {
+      "id": "tokyo_mix",
+      "group": "Tokyo",
+      "name": "Tokyo Mix",
+      "detail": "Asakusa \u00b7 Shibuya"
+    },
+    {
+      "id": "tokyo_1",
+      "group": "Tokyo",
+      "name": "Tokyo 1",
+      "detail": "Asakusa \u00b7 Ueno \u00b7 Akihabara"
+    },
+    {
+      "id": "tokyo_2",
+      "group": "Tokyo",
+      "name": "Tokyo 2",
+      "detail": "Harajuku \u00b7 Shibuya"
+    },
+    {
+      "id": "kamakura",
+      "group": "Tokyo",
+      "name": "Kamakura",
+      "detail": "Great Buddha \u00b7 Old Town"
+    },
+    {
+      "id": "yokohama_1",
+      "group": "Tokyo",
+      "name": "Yokohama 1",
+      "detail": "Air Cabin \u00b7 Brickhouse \u00b7 Chinatown"
+    },
+    {
+      "id": "yokohama_2",
+      "group": "Tokyo",
+      "name": "Yokohama 2",
+      "detail": "Yokohama Sea Paradise"
+    },
+    {
+      "id": "odaiba",
+      "group": "Tokyo",
+      "name": "Odaiba",
+      "detail": "Odaiba \u00b7 Legoland"
+    },
+    {
+      "id": "asakusa_shinagawa",
+      "group": "Tokyo",
+      "name": "Asakusa + Shinagawa",
+      "detail": "Asakusa \u00b7 Shinagawa Aquarium"
+    },
+    {
+      "id": "shinjuku_gyoen",
+      "group": "Tokyo",
+      "name": "Shinjuku Gyoen",
+      "detail": "Shinjuku Gyoen Park \u00b7 Tokyo Skytree"
+    },
+    {
+      "id": "ueno_zoo",
+      "group": "Tokyo",
+      "name": "Ueno Zoo",
+      "detail": "Ueno Zoo \u00b7 Tokyo Tower"
+    },
+    {
+      "id": "tokyo_museum",
+      "group": "Tokyo",
+      "name": "Tokyo Museum",
+      "detail": "Tokyo National Museum"
+    },
+    {
+      "id": "sanrio",
+      "group": "Tokyo",
+      "name": "Sanrio Puroland",
+      "detail": "Sanrio Puroland"
+    },
+    {
+      "id": "warnerbros",
+      "group": "Tokyo",
+      "name": "Warner Bros. Studio",
+      "detail": "Warner Bros Studio Tour"
+    },
+    {
+      "id": "edo_wonderland",
+      "group": "Tokyo",
+      "name": "Edo Wonderland",
+      "detail": "Edo Wonderland"
+    },
+    {
+      "id": "hitachi",
+      "group": "Tokyo",
+      "name": "Hitachi Seaside Park",
+      "detail": "Hitachi Park \u00b7 Hitachi Railway"
+    },
+    {
+      "id": "nikko",
+      "group": "Tokyo",
+      "name": "Nikko",
+      "detail": "Kegon Falls \u00b7 Lake Chuzenji \u00b7 Shinkyo Bridge"
+    },
+    {
+      "id": "kamogawa",
+      "group": "Tokyo",
+      "name": "Kamogawa Seaworld",
+      "detail": "Kamogawa Seaworld"
+    },
+    {
+      "id": "bullet_tokyo",
+      "group": "Tokyo",
+      "name": "Bullet Train to Tokyo",
+      "detail": "Ueno \u00b7 Akihabara"
+    },
+    {
+      "id": "mt_fuji",
+      "group": "Fuji / Hakone / Snow",
+      "name": "Mt Fuji",
+      "detail": "Iyashi No Sato \u00b7 Saiko Lake \u00b7 GPO"
+    },
+    {
+      "id": "fuji_snow",
+      "group": "Fuji / Hakone / Snow",
+      "name": "Fujiten Snow Resort",
+      "detail": "Fujiten Snow Resort"
+    },
+    {
+      "id": "hakone",
+      "group": "Fuji / Hakone / Snow",
+      "name": "Hakone",
+      "detail": "Cable Car \u00b7 Lake Ashi Cruise"
+    },
+    {
+      "id": "odawara",
+      "group": "Fuji / Hakone / Snow",
+      "name": "Odawara",
+      "detail": "Bullet Train \u00b7 Odawara Castle"
+    },
+    {
+      "id": "naeba",
+      "group": "Fuji / Hakone / Snow",
+      "name": "Naeba Snow Resort",
+      "detail": "Naeba Snow Resort"
+    },
+    {
+      "id": "gala_yuzawa",
+      "group": "Fuji / Hakone / Snow",
+      "name": "Gala Yuzawa",
+      "detail": "Gala Yuzawa \u00b7 Bullet Train"
+    },
+    {
+      "id": "hachikogen",
+      "group": "Fuji / Hakone / Snow",
+      "name": "Hachikogen Snow Resort",
+      "detail": "Hachikogen Snow Resort"
+    },
+    {
+      "id": "hakuba",
+      "group": "Fuji / Hakone / Snow",
+      "name": "Hakuba Ski Resort",
+      "detail": "Hakuba Ski Resort"
+    },
+    {
+      "id": "usj",
+      "group": "Kansai",
+      "name": "USJ",
+      "detail": "Universal Studios Japan"
+    },
+    {
+      "id": "kyoto_1",
+      "group": "Kansai",
+      "name": "Kyoto 1",
+      "detail": "Arashiyama \u00b7 Higashiyama"
+    },
+    {
+      "id": "kyoto_2",
+      "group": "Kansai",
+      "name": "Kyoto 2",
+      "detail": "Nishiki Market \u00b7 Gion"
+    },
+    {
+      "id": "kyoto_3",
+      "group": "Kansai",
+      "name": "Kyoto 3",
+      "detail": "Fushimi Inari Taisha \u00b7 Gion"
+    },
+    {
+      "id": "nara",
+      "group": "Kansai",
+      "name": "Nara",
+      "detail": "Nara Park \u00b7 Kaiyukan Aquarium"
+    },
+    {
+      "id": "nara_tempozan",
+      "group": "Kansai",
+      "name": "Nara + Tempozan",
+      "detail": "Nara Park \u00b7 Tempozan"
+    },
+    {
+      "id": "cruise_nara",
+      "group": "Kansai",
+      "name": "Santa Maria Cruise + Nara",
+      "detail": "Santa Maria Cruise \u00b7 Nara \u00b7 Tempozan"
+    },
+    {
+      "id": "osaka_1",
+      "group": "Kansai",
+      "name": "Osaka 1",
+      "detail": "Kuromon Market \u00b7 Denden Town \u00b7 Tsutenkaku"
+    },
+    {
+      "id": "osaka_2",
+      "group": "Kansai",
+      "name": "Osaka 2",
+      "detail": "Mino Park \u00b7 Sumiyoshi Taisha"
+    },
+    {
+      "id": "kobe",
+      "group": "Kansai",
+      "name": "Kobe",
+      "detail": "Nunobiki Garden \u00b7 Kobe Mosque \u00b7 Harborland"
+    },
+    {
+      "id": "mt_rokko",
+      "group": "Kansai",
+      "name": "Mt Rokko Snow Park",
+      "detail": "Mt Rokko Snow Park"
+    },
+    {
+      "id": "biwako",
+      "group": "Kansai",
+      "name": "Biwako Valley",
+      "detail": "Biwako Valley"
+    },
+    {
+      "id": "kids_plaza",
+      "group": "Kansai",
+      "name": "Kids Plaza Osaka",
+      "detail": "Kids Plaza Osaka"
+    },
+    {
+      "id": "museum_living",
+      "group": "Kansai",
+      "name": "Museum of Living Osaka",
+      "detail": "Osaka Museum of Housing & Living"
+    },
+    {
+      "id": "wakayama",
+      "group": "Kansai",
+      "name": "Wakayama",
+      "detail": "Wakayama"
+    },
+    {
+      "id": "awaji_island",
+      "group": "Kansai",
+      "name": "Awaji Island",
+      "detail": "Naruto x Boruto"
+    },
+    {
+      "id": "bullet_osaka",
+      "group": "Kansai",
+      "name": "Bullet Train to Osaka",
+      "detail": "Namba \u00b7 Dotonbori"
+    },
+    {
+      "id": "hiroshima",
+      "group": "Kansai",
+      "name": "Hiroshima",
+      "detail": "Hiroshima Park \u00b7 Downtown"
+    },
+    {
+      "id": "free_easy",
+      "group": "Rest Day",
+      "name": "Free & Easy (No Tour Guide)",
+      "detail": "Self-guided day, no tour guide"
+    },
+    {
+      "id": "disney",
+      "group": "Tokyo",
+      "name": "Disneyland / DisneySea",
+      "detail": "1-Day Passport (peak season) \u2014 added manually, not a sheet preset"
+    }
+  ],
+  "arrivalFlights": [
+    "AirAsia X D7522 \u00b7 Haneda (HND) (Arr 22:35)",
+    "ANA NH886 \u00b7 Haneda (HND) (Arr 22:15)",
+    "Malaysia Airlines MH70 \u00b7 Narita (NRT) (Arr 18:05)",
+    "Malaysia Airlines MH88 \u00b7 Narita (NRT) (Arr 07:03 +1)",
+    "Japan Airlines JL7092 \u00b7 Narita (NRT) (Arr 18:05) \u2014 codeshare on MH70",
+    "Batik Air Malaysia OD872 \u00b7 Narita (NRT) (Arr 08:25)",
+    "Batik Air Malaysia OD870 \u00b7 Narita (NRT) (Arr 20:50)",
+    "AirAsia X D7532 \u00b7 Kansai (KIX), Osaka (Arr 09:50)",
+    "Malaysia Airlines MH52 \u00b7 Kansai (KIX), Osaka (Arr 05:55 +1)",
+    "Batik Air Malaysia OD860 \u00b7 Kansai (KIX), Osaka (Arr 06:55, varies)"
+  ],
+  "departureFlights": [
+    "AirAsia X D7523 \u00b7 Haneda (HND) (Dep 23:50)",
+    "ANA NH885 \u00b7 Haneda (HND) (Dep 23:30)",
+    "Malaysia Airlines MH71 \u00b7 Narita (NRT) (Dep 21:45)",
+    "Malaysia Airlines MH89 \u00b7 Narita (NRT) (Dep 10:20)",
+    "Japan Airlines JL7093 \u00b7 Narita (NRT) (Dep 21:45) \u2014 codeshare on MH71",
+    "Batik Air Malaysia OD871 \u00b7 Narita (NRT) (Dep 21:50)",
+    "Batik Air Malaysia OD873 \u00b7 Narita (NRT) (Dep 10:25)",
+    "AirAsia X D7533 \u00b7 Kansai (KIX), Osaka (Dep 10:55)",
+    "Malaysia Airlines MH53 \u00b7 Kansai (KIX), Osaka (Dep 09:55)",
+    "Batik Air Malaysia OD861 \u00b7 Kansai (KIX), Osaka (Dep 09:30, varies)"
+  ]
+}
